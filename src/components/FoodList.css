@@ -1,0 +1,9 @@
+.AppList {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.AddFood {
+    display: block
+}
